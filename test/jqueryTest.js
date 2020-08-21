@@ -1,4 +1,4 @@
-let test = jQuery('.test');
+let test = jQuery('#test');
 //添加类
 // const api = jQuery('.test')     //获取.test对应的所有元素
 //遍历所有刚刚获取到的元素，添加.red类名
